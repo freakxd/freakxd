@@ -1,4 +1,9 @@
-## Hi there 👋
+- 🌍 Location: Budapest
+- 🎓 Student
+- 💻 Tech Stack: **HTML**, **CSS**, **PHP**, **JavaScript**
+- 🌐 Project: [watch.it](#) – A community-based movie review website
+- 🏢 Website: [abakos.hu](https://abakos.hu)
+
 
 <!--
 **freakxd/freakxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
