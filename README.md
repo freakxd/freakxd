@@ -1,5 +1,5 @@
-- 🌍 Location: Budapest
-- 🎓 Student
+- 🌍 Budapest
+- 🎓 BME-VIK
 - 💻 Tech Stack: **HTML**, **CSS**, **PHP**, **JavaScript**
 - 🌐 Project: [watch.it](#) – A community-based movie review website
 - 🏢 Website: [abakos.hu](https://abakos.hu)
