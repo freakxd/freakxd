@@ -1,13 +1,15 @@
 - 🌍 Budapest
-- 💻 Tech Stack: **HTML**, **CSS**, **PHP**, **JavaScript**
+- 💻 Tech Stack: **HTML**, **CSS**, **JavaScript**, **MySQL**, **PHP**
 - 🌐 Project: [watch.it](#) – A community-based movie review website
-- 🏢 Website: [abakos.hu](https://abakos.hu)
+
 
 
 <!--
 **freakxd/freakxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🏢 Website: [abakos.hu](https://abakos.hu)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
